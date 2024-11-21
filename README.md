@@ -23,13 +23,12 @@ I focus on converting ideas into real web applications with great user experienc
 - 📰 **Fake News Detection:** A project aimed at identifying and combating fake news.
 - 📈 **Employee Attrition Prediction:** An analytical project to predict employee turnover.
 - ⚽ **FIFA World Cup 2022 Analysis:** An analysis of match data and player statistics.
-- 🚌 **Real-time Bus Booking for Nepal:** A web app for booking buses in real time.
 - 🍔 **Food Delivery Service:** A planned service to connect hotels and restaurants in Rajbiraj.
 - 📝 **Frontend Code Editor:** A tool to write and test HTML, CSS, and JavaScript code.
 
 ## Certifications
 
-- 🎓 ReactJS & Redux
+- 🎓 ReactJS 
 - 🎓 Java
 - 🎓 Python for Data Science
 - 🎓 C++
