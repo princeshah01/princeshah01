@@ -5,17 +5,18 @@ I focus on converting ideas into real web applications with great user experienc
 
 ## About Me
 
-- 🌍 **Location:** Rajbiraj, Nepal (Originally from Madhepura, Bihar)
-- 🎓 **Education:** MCA with a specialization in Web Development from Lovely Professional University (CGPA: 7.24)
-- 📚 **BBA Graduate** from Bhupendra Narayan Mandal University (Percentage: 84%)
-- 💼 **Internship Experience:** Full Stack Web Developer Intern at Xhire Pvt Ltd
+- **Location:** Rajbiraj, Nepal (Originally from Madhepura, Bihar)
+- **Education:** MCA with a specialization in Web Development from Lovely Professional University (CGPA: 7.24)
+- **Experience:**
+-  Full Stack Web Developer Intern at Xhire Pvt Ltd
+-  Software Developer at IDS Infotech Pvt Ltd
 
 ## Skills
 
-- 💻 **Languages:** Python, Java, C++, JavaScript
+- 💻 **Languages:** Python, Java, C++, JavaScript,SQL
 - 🌐 **Web Development:** HTML, CSS, React
 - 🛠️ **Tools:** VS Code, Android Studio, IntelliJ IDEA Ultimate
-- 📦 **Frameworks & Libraries:** ReactJS, Redux
+- 📦 **Frameworks & Libraries:** ReactJS, Redux, Next, Express
 
 ## Projects
 
