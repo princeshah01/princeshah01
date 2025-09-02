@@ -5,7 +5,7 @@ I focus on converting ideas into real web applications with great user experienc
 
 ## About Me
 
-- **Location:** Rajbiraj, Nepal (Originally from Madhepura, Bihar)
+- **Location:** Rajbiraj, Nepal.
 - **Education:** MCA with a specialization in Web Development from Lovely Professional University (CGPA: 7.24)
 - **Experience:**
 -  Full Stack Web Developer Intern at Xhire Pvt Ltd
