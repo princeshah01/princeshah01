@@ -1,16 +1,16 @@
-# Hi 👋 My name is YOUR NAME
+# Hi 👋 My name is Prince shah
 
 ## Full Stack Web Developer
 
-**GitHub Username:** your-username
+**GitHub Username:** princeshah01
 
 I've been building web applications for **X years** and have worked on multiple projects and/or companies.
 
 ---
 
-🌍  I'm based in **Your Country / City**  
+🌍  I'm based in **India / Chandigarh**  
 🖥️  See my portfolio at **[Portfolio](https://princeshah.me)**  
-✉️  You can contact me at **your@email.com**  
+✉️  You can contact me at **hello@princeshah.me**  
 🧠  I'm learning **Next.js, TypeScript**  
 🤝  I'm open to collaborating on **interesting projects**
 
