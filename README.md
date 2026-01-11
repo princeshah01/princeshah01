@@ -2,8 +2,6 @@
 
 ## Full Stack Web Developer
 
----
-
 🌍  I'm based in **India / Chandigarh**  
 🖥️  See my portfolio at **[Portfolio](https://princeshah.me)**  
 ✉️  You can contact me at **hello@princeshah.me**  
