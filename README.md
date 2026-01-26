@@ -1,6 +1,7 @@
 # Hi 👋 My name is Prince shah
 
 ## Full Stack Web Developer
+![Profile View](https://komarev.com/ghpvc/?username=princeshah01)
 
 🌍  I'm based in **India / Chandigarh**  
 🖥️  See my portfolio at **[Portfolio](https://princeshah.me)**  
